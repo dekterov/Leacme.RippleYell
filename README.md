@@ -5,6 +5,7 @@
 This application features the ability to visualize sound frequencies with rings.
 
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71703943-a97a5d80-2d94-11ea-9e07-3cfb4375217a.png)
 
 ## Application Compiling
 
